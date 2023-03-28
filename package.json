@@ -1,0 +1,23 @@
+{
+  "name": "vue_projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -C play dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@jianjian-ui/components": "workspace:^1.0.0",
+    "@jianjian-ui/theme-chalk": "workspace:^1.0.0",
+    "@jianjian-ui/utils": "workspace:^1.0.0",
+    "typescript": "^5.0.2",
+    "vue": "^3.2.47"
+  },
+  "volta": {
+    "node": "17.9.1"
+  }
+}
